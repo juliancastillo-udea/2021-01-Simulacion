@@ -1,0 +1,1 @@
+Los presentes Jupyter Notebooks fueron creados en clase, cualquier error generado o no detallado por el profesor no es responsabilidad de este.
